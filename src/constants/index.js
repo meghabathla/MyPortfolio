@@ -1,5 +1,4 @@
 import Project1 from "../assets/Project1.png";
-import Project2 from "../assets/Project2.png";
 import Project3 from "../assets/Project3.png";
 import Project4 from "../assets/Project4.png";
 import Project5 from "../assets/Project5.png";
@@ -41,21 +40,21 @@ export const PROJECTS = [
     live: "https://admin-dasboard-alpha.vercel.app/",
     viewCode: "https://github.com/meghabathla/Admin-Dasboard",
   },
-  {
-    title: "Blogging Platform",
-    image: Project2,
-    description:
-      "A platform for creating and publishing blog posts, with features where users can do CRUD operations using Tinymce editor and user authentication.",
-    technologies: [
-      "ReactJS",
-      "React-Router",
-      "Redux",
-      "TailwindCSS",
-      "Appwrite",
-    ],
-    live: "https://blog-post-with-appwrite.vercel.app/",
-    viewCode: "https://github.com/meghabathla/Blog-post",
-  },
+  // {
+  //   title: "Blogging Platform",
+  //   image: Project2,
+  //   description:
+  //     "A platform for creating and publishing blog posts, with features where users can do CRUD operations using Tinymce editor and user authentication.",
+  //   technologies: [
+  //     "ReactJS",
+  //     "React-Router",
+  //     "Redux",
+  //     "TailwindCSS",
+  //     "Appwrite",
+  //   ],
+  //   live: "https://blog-post-with-appwrite.vercel.app/",
+  //   viewCode: "https://github.com/meghabathla/Blog-post",
+  // },
   {
     title: "Todo App",
     image: Project4,

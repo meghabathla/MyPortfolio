@@ -19,7 +19,7 @@ const container = (delay) => ({
 
 const Hero = () => {
   return (
-    <div className="border-b border-neutral-900 pb-4 lg:mb-35">
+    <div className="border-b border-neutral-900 pb-4 pt-40 lg:mb-35">
       <div className="flex flex-wrap lg:p-8">
         <div className="w-full lg:w-1/2 ">
           <div className="flex flex-col items-center ">
@@ -51,7 +51,7 @@ const Hero = () => {
               variants={container(1)}
               initial="hidden"
               animate="visible"
-              className="text-center tracking-tighter m-8 flex text-gray-500 items-center justify-center gap-4 text-2x cursor-pointer"
+              className="text-center tracking-tighter  flex text-gray-500 items-center justify-center gap-4 text-2x cursor-pointer"
             >
               <a href="mailto:bathlamegha6@gmail.com">
                 {" "}
