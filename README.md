@@ -1,3 +1,11 @@
 # Checkout my Portfolio
 
-- [click here](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+## Installation
+
+Install the project dependencies using npm:
+
+npm install
+
+### Running the Project
+
+npm run dev
