@@ -14,7 +14,7 @@ const Navbar = () => {
           alt="logo"
         />
       </div>
-      <div className="flex flex-wrap justify-center lg:m-6 text-base text-gray-300 items-center gap-3 sm:mx-auto sm:text-xs cursor-pointer">
+      <div className="flex flex-wrap justify-center lg:m-6 lg:text-base text-gray-300 items-center gap-3 sm:mx-auto sm:text-xs cursor-pointer">
         <a
           href="#about"
           className=" hover:text-gray-400 transition duration-300"
