@@ -53,7 +53,8 @@ const Contact = () => {
         </a>
       </div>
       <p className="text-center tracking-tighter m-10 flex text-gray-500 items-center justify-center gap-4 ">
-        Made by Megha
+        Developed with<span className="animate-bounce text-red-500">❤</span>by
+        Megha
       </p>
     </div>
   );
