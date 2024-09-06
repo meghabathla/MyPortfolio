@@ -21,8 +21,8 @@ export const PROJECTS = [
       "Context API",
       "Supabase",
     ],
-    live: "https://blog-post-with-appwrite.vercel.app/",
-    viewCode: "https://github.com/meghabathla/Blog-post",
+    live: "https://digital-pro-ecommerce.vercel.app/",
+    viewCode: "https://github.com/meghabathla/DigitalPro",
   },
   {
     title: "Admin Dashboard",
@@ -75,9 +75,3 @@ export const PROJECTS = [
     viewCode: "https://github.com/meghabathla/Currency-convertor",
   },
 ];
-
-export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
-};
