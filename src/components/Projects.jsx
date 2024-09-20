@@ -57,10 +57,14 @@ const Projects = () => {
                   })}
                 </div>
                 <div className="flex gap-3 mt-3">
-                  <a href={project.live}>
+                  <a href={project.live} target="_blank">
                     <FaExternalLinkAlt />
                   </a>
-                  <a href={project.viewCode} className="text-lg font-bold">
+                  <a
+                    href={project.viewCode}
+                    className="text-lg font-bold"
+                    target="_blank"
+                  >
                     <GoCodeReview />
                   </a>
                 </div>
